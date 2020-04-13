@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="tomsk">Tomsk</string>
+    <string name="gradus">+14</string>
+    <string name="you_are_located_in_tomsk">you are located in Tomsk</string>
+    <string name="text_activityTwo">Select city</string>
+</resources>

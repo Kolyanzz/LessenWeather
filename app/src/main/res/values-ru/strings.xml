@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="tomsk">Томск</string>
+    <string name="gradus">+14</string>
+    <string name="you_are_located_in_tomsk">Вы находитесь в Томске!</string>
+    <string name="text_activityTwo">Выбирите город</string>
+</resources>
