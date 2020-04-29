@@ -5,4 +5,8 @@
     <string name="gradus">+14</string>
     <string name="you_are_located_in_tomsk">Вы находитесь в Томске!</string>
     <string name="text_activityTwo">Выбирите город</string>
+    <string name="novosibirsk">Новосибирск</string>
+    <string name="moskov">Москва</string>
+    <string name="select_city">Выбирите город</string>
+    <string name="enter_the_city_name">Введите название города</string>
 </resources>
